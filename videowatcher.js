@@ -4,7 +4,7 @@
 // @version      1.4
 // @description  Automates watching videos
 // @author       Subatomicmc
-// @match        https://student.edgenuity.com/enrollment/*/coursemap
+// @match        *://*.core.learn.edgenuity.com/*
 // @match        https://*.core.learn.edgenuity.com/Player/
 // @grant        none
 // ==/UserScript==
